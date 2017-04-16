@@ -1,0 +1,18 @@
+{
+  "name": "stylelint-config-tourstream",
+  "version": "0.0.1",
+  "description": "Tourstream shareable config for stylelint",
+  "author": "Enrico Hoffmann <enrico.hoffmann@tourstream.eu>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tourstream/stylelint-config-tourstream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tourstream/stylelint-config-tourstream/issues"
+  },
+  "homepage": "https://github.com/tourstream/stylelint-config-tourstream#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
